@@ -1,1 +1,1 @@
-echo "hi"
+cp -R /storage/emulated/0/Android/data/a.a.a/files/game_patch_0.17.0.11801.pak /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/
